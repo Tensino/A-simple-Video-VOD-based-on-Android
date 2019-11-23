@@ -1,2 +1,2 @@
-include ':app'
-rootProject.name='A simple Video VOD based on Android'
+include ':app', ':calendarview'
+rootProject.name='calendar'
